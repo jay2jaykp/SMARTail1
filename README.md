@@ -9,3 +9,9 @@ Universal Product Database
 3. https://ndb.nal.usda.gov/ndb/search
 4. http://openfoodfacts.org/
 5. 
+
+# Task breakdown:
+1. How we can utilize this database for our purpose?
+2. Start gathering database from open-food facts. That will be out baseline to start.
+3. Start visualizing the design of the UI for the system; Actually we can open two branches for frontend and backend developments.
+4. Brainstorm every weekend for updates.
